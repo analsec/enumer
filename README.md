@@ -1,5 +1,6 @@
 # enumer
 enumer for dockers
+* Size ~870MB
 
 # Install
 ```bash
